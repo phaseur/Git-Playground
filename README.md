@@ -1,3 +1,3 @@
-# gitPlayground
+# Playground
 
-> Playing with git commands line
+> I'm playing with git commands line
